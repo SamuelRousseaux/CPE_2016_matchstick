@@ -2,6 +2,8 @@
 
 
 ## Project
+Epitech 1st year project.
+
 This project is based on a very famous game based on matchsticks.
 
 There is a certain number of matchstick lines.
